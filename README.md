@@ -1,13 +1,14 @@
 # CookingBlog
 
 Welcome to our Cooking Blog project! This is a web application built with Node.js, MongoDB, Express, EJS, Mongoose, and Bootstrap that allows users to share and explore various cooking recipes.
+This project is a cooking blog web application that allows users to share and explore cooking recipes. Users can view recipes, create their own recipes, and interact with the cooking community.
 
 ## Features
 
-- **Recipe Sharing:** Registered users can post their favorite recipes, complete with ingredients, instructions, and images.
-
-- **Recipe Search:** Easily search for recipes based on keywords, ingredients, or categories.
-
-- **Responsive Design:** The user interface is designed using Bootstrap to ensure a seamless experience across different devices.
+- View a list of recipes
+- Read detailed recipe instructions and ingredients
+- Create, edit, and delete your own recipes
+- User authentication and authorization
+- Responsive design using Bootstrap
 
 
